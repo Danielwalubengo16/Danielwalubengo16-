@@ -26,4 +26,5 @@ A passionate programming student dedicated to becoming a modern developer who bu
 ### APIs  
 - REST APIs  
 
-📧 Feel free to reach out via email at (mailto:walubengod@gmail.com). Always happy to collaborate and learn together!
+📧 Feel free to reach out via email at: walubengod@gmail.com. 
+Always happy to collaborate and learn together!
