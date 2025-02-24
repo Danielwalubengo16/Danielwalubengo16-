@@ -51,7 +51,3 @@ I aim to become a proficient modern programmer by mastering these technologies a
 Feel free to explore my projects, and if you have any questions, don't hesitate to reach out!
 
 
----
-
-This version places each logo inline with the technology it represents, giving a clean and clear look. Let me know if this is what you were looking for!
-
